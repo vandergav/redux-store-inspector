@@ -1,0 +1,11 @@
+.container {
+  min-width: 460px;
+  min-height: fit-content;
+  background-color: #f5f5f5;
+  font-family: 'Roboto';
+  color: white;
+}
+
+.MyCustomButton:hover {
+  background-color: inherit !important;
+}
